@@ -1,0 +1,26 @@
+h1 {
+  color:#800080;
+  font-family: cursive;
+
+}
+
+img {
+  width: 400px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+li {
+  color: #800080;
+  font-family: cursive;
+  font-style: bold;
+
+}
+
+p.intro {
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 20px;
+}
